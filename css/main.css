@@ -1,3 +1,48 @@
-*{
-    border :2px solid red;
+/** {
+    border: 2px solid red;
+}
+*/
+body{
+    text-align: center;
+    align-items: center;
+    background-image: url('image/win xp.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: Papyrus, serif;
+    font-size: 60px;
+}
+
+p{
+    font-family: Roboto, serif;
+    font-size: 2em;
+
+}
+ul{
+    font-family: Roboto, serif;
+    font-size: .9rem;
+
+}
+a{
+    font-family: "Arial Black", serif;
+    font-size: 130%;
+}
+a:hover{
+    font-size: 160%;
+    color: green;
+}
+h2{
+    font-family: Papyrus, serif;
+    font-size: 30px;
+}
+
+header{
+    background-color: aqua;
+    margin-left: 20rem;
+    margin-right: 20rem;
+    padding-left: 200px;
+    padding-right: 200px;
+    border: aliceblue 5px dotted;
+    box-shadow: 0 0 100px
 }
