@@ -8,6 +8,7 @@ body{
     background-image: url('image/win xp.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    max-width: 800px;
 }
 h1{
     font-family: Papyrus, serif;
