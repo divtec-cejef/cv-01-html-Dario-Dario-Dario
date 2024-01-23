@@ -23,7 +23,6 @@ p{
 ul{
     font-family: Roboto, serif;
     font-size: .9rem;
-
 }
 a{
     font-family: "Arial Black", serif;
@@ -42,4 +41,7 @@ header{
     background-color: aqua;
     border: aliceblue 5px dotted;
     box-shadow: 0 0 100px
+}
+header img{
+    border-radius: 20%;
 }
