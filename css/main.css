@@ -4,6 +4,7 @@
 */
 body{
     text-align: center;
+    margin: auto;
     background-image: url('image/win xp.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -39,10 +40,6 @@ h2{
 
 header{
     background-color: aqua;
-    margin-left: 20rem;
-    margin-right: 20rem;
-    padding-left: 200px;
-    padding-right: 200px;
     border: aliceblue 5px dotted;
     box-shadow: 0 0 100px
 }
